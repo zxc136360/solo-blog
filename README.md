@@ -10,6 +10,7 @@ zxc136360 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.ruoot.top:24050/my-github-repos)
 * [centos下安装python3详细教程](http://www.ruoot.top:24050/articles/2020/07/29/1595966812093.html)
 * [世界，你好！](http://www.ruoot.top:24050/hello-solo)
 
