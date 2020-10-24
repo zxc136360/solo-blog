@@ -5,14 +5,14 @@ zxc136360 的个人博客
 <h4 align="center">记录精彩的程序人生</h4>
 <p align="center"><a title="zxc136360 的个人博客" target="_blank" href="https://github.com/zxc136360/solo-blog"><img src="https://img.shields.io/github/last-commit/zxc136360/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/zxc136360/solo-blog"><img src="https://img.shields.io/github/repo-size/zxc136360/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.1.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/zxc136360/solo-blog.svg"></a></p>
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.ruoot.top:24050/my-github-repos)
-* [centos下安装python3详细教程](http://www.ruoot.top:24050/articles/2020/07/29/1595966812093.html)
-* [世界，你好！](http://www.ruoot.top:24050/hello-solo)
+* [我在 GitHub 上的开源项目](http://1www.ruoot.top:24050/my-github-repos)
+* [centos下安装python3详细教程](http://1www.ruoot.top:24050/articles/2020/07/29/1595966812093.html)
+* [世界，你好！](http://1www.ruoot.top:24050/hello-solo)
 
 
 
