@@ -10,6 +10,7 @@ zxc136360 的个人博客
 
 ### 最新
 
+* [IDEA JREbel热部署启动报错](http://1www.ruoot.top:24050/articles/2020/10/24/1603509575767.html)
 * [我在 GitHub 上的开源项目](http://1www.ruoot.top:24050/my-github-repos)
 * [centos下安装python3详细教程](http://1www.ruoot.top:24050/articles/2020/07/29/1595966812093.html)
 * [世界，你好！](http://1www.ruoot.top:24050/hello-solo)
